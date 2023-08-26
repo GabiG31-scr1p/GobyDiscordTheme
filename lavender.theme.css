@@ -1,41 +1,12 @@
 /**
- * @name Lavender
+ * @name PurpleThemeGoby
  * @version 3.1.2
- * @author Obscure
+ * @author Goby
  * @authorLink https://github.com/kritishd8
- * @description Lavender
- * @website https://github.com/lavender-discord/Lavender
- * @source https://lavender-discord.github.io/Lavender
+ * @description PurpleThemeGoby
+ * @website https://github.com/GabiG31-scr1p
+ * @source https://github.com/GabiG31-scr1p/GobyDiscordTheme
  * @invite sfJV2qdRdW 
 */
 
-@import url('https://lavender-discord.github.io/Lavender/src/dev.css');
-
-/*.membersWrap-3NUR2t {
-  min-width: unset;
-}
-.membersWrap-3NUR2t .members-3WRCEx {
-  max-width: 65px;
-  min-width: 65px;
-  -webkit-transition: 0.3s ease;
-  transition: 0.3s ease;
-}
-.membersWrap-3NUR2t .members-3WRCEx:hover {
-  max-width: 240px;
-  min-width: 240px;
-}
-.membersWrap-3NUR2t .members-3WRCEx .content-2a4AW9:not(:hover) {
-  padding-top: 10px;
-  background-color: var(--darkplus-bg);
-}
-
-.membersGroup-2eiWxl {
-  margin-left: 60px;
-  background-color: var(--darkplus-bg);
-  color: var(--darkplus-sec);
-}
-
-.members-3WRCEx,
-.members-3WRCEx > div {
-  background-color: var(--darkplus-bg);
-}
+@import url('https://raw.githubusercontent.com/GabiG31-scr1p/gobytheme.theme.css/main/gobytheme.theme.css');
